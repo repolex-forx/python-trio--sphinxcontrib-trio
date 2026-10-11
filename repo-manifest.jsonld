@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/sphinxcontrib-trio/commit/cfd44c1658aaee1b2776077dd576dc869be55522",
       "git:hexsha": "cfd44c1658aaee1b2776077dd576dc869be55522",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/sphinxcontrib-trio/commit/15793c0e9e7c65d0771a57e4f594526fd5995321",
