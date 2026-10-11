@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "sphinxcontrib-trio",
+  "versions": [
+    {
+      "commit": "cfd44c1658aaee1b2776077dd576dc869be55522",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:14:52.911709+00:00"
+    }
+  ]
+}
